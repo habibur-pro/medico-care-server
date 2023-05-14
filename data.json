@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Allergy Check",
+        "img": "https://example.com/allergy-check.jpg",
+        "description": "Allergy check involves testing for various allergies to determine which substances trigger an allergic reaction. Allergic reactions occur when the body's immune system overreacts to a normally harmless substance, such as pollen, pet dander, or certain foods. An allergy check can help identify which allergens are causing a patient's symptoms, such as sneezing, itching, runny nose, hives, or anaphylaxis. Common allergy tests include skin prick tests, blood tests, and patch tests. Skin prick tests involve applying a small amount of a potential allergen to the skin and observing for a reaction. Blood tests measure the amount of antibodies in the blood that are produced in response to an allergen. Patch tests involve applying a small amount of a potential allergen to the skin with a patch, leaving it on for a period of time, and observing for a reaction. Results will be reviewed by a physician or allergist, and treatment options may be discussed.",
+        "price": 100,
+        "category": "Medical Services",
+        "ratings": 4.5,
+        "process": "The patient will be asked about their symptoms and medical history, and may undergo a skin prick test, blood test, or other diagnostic tests to identify potential allergies. Results will be reviewed by a physician or allergist, and treatment options may be discussed."
+    },
+    {
+        "title": "Diagnosis of Heart",
+        "img": "https://example.com/diagnosis-of-heart.jpg",
+        "description": "Diagnosis of heart conditions is important for identifying and treating potentially life-threatening conditions such as coronary artery disease, arrhythmias, and heart failure. Non-invasive tests can provide valuable information about the structure and function of the heart, as well as the presence of blockages or abnormalities in blood flow. Common diagnostic tests include electrocardiography (ECG), echocardiography, stress testing, and cardiac catheterization. ECG involves placing electrodes on the skin to measure the electrical activity of the heart. Echocardiography uses sound waves to create images of the heart's structure and function. Stress testing involves monitoring the heart during exercise to assess its response to physical activity. Cardiac catheterization involves inserting a catheter into a blood vessel in the arm or groin and guiding it to the heart to measure pressures, take biopsies, and perform other diagnostic tests. Results will be reviewed by a physician or cardiologist, and treatment options may be discussed.",
+        "price": 500,
+        "category": "Medical Services",
+        "ratings": 4.7,
+        "process": "The patient will undergo various diagnostic tests such as electrocardiography (ECG), echocardiography, or stress testing. Results will be reviewed by a physician or cardiologist, and treatment options may be discussed."
+    },
+    {
+        "title": "Eye Exam",
+        "img": "https://example.com/images/eye-exam.jpg",
+        "description": "Eye checkups are routine exams that detect vision problems, eye diseases, and other conditions that affect eye health. Early detection and treatment of eye conditions can prevent or slow the progression of vision loss and other complications. Common tests during an eye exam include visual acuity tests, refraction tests, and slit-lamp exams. Visual acuity tests measure how well the patient can see at a distance and up close. Refraction tests measure the prescription needed for glasses or contact lenses. Slit-lamp exams evaluate the structures of the eye, including the cornea, iris, lens, and retina. Other tests may include tonometry to measure the pressure inside the eye, and dilated eye exams to examine the back of the eye and check for signs of eye disease such as glaucoma, macular degeneration, and diabetic retinopathy. Results will be reviewed by an ophthalmologist or optometrist, and treatment options may be discussed.",
+        "price": 80,
+        "category": "Medical Services",
+        "ratings": 4.8,
+        "process": "The patient will undergo a series of tests to evaluate their vision and the health of their eyes. The first step is to fill out a medical history form and discuss any concerns or symptoms with the eye doctor. The doctor will then perform various tests to assess visual acuity, eye alignment, eye movements, and other factors. These tests may include reading an eye chart, using a phoropter to measure refractive error, and examining the eyes with a slit lamp or other diagnostic tool. If necessary, the doctor may also dilate the patient's pupils to get a better view of the back of the eye. After the exam, the doctor will discuss the results with the patient and recommend any necessary treatment or follow-up care."
+    },
+    {
+        "title": "Dental Cleaning ",
+        "img": "https://example.com/images/dental-cleaning.jpg",
+        "description": "Dental cleaning and exams are important for maintaining good oral health. During a cleaning, a dental hygienist will use special tools to remove plaque and tartar from the teeth and gums, and then polish the teeth to remove surface stains. The dentist will then perform a thorough exam of the teeth, gums, and mouth to check for any signs of decay, gum disease, oral cancer, or other problems. X-rays may also be taken to detect any issues that are not visible to the naked eye. Treatment options will be discussed if any issues are found.",
+        "price": 120,
+        "category": "Dental Services",
+        "ratings": 4.7,
+        "process": "The patient will first fill out a medical history form and discuss any concerns or symptoms with the dentist. The dental hygienist will then perform a cleaning using special tools to remove plaque and tartar from the teeth and gums. The teeth will be polished to remove surface stains, and fluoride treatment may be applied to help strengthen the teeth. The dentist will then perform a thorough exam of the teeth, gums, and mouth, and may take x-rays if necessary. The dentist will discuss the results with the patient and recommend any necessary treatment or follow-up care."
+    },
+    {
+        "title": "Tooth Extraction",
+        "img": "https://example.com/images/tooth-extraction.jpg",
+        "description": "Tooth extraction is a dental procedure in which a tooth is removed from its socket in the jaw bone. This may be necessary due to severe decay, infection, trauma, or overcrowding. The procedure may be performed under local anesthesia, conscious sedation, or general anesthesia, depending on the complexity of the extraction and the patient's level of anxiety. The dentist or oral surgeon will carefully remove the tooth and provide instructions for post-operative care.",
+        "price": 250,
+        "category": "Oral Surgery",
+        "ratings": 4.2,
+        "process": "The patient will first undergo a comprehensive oral exam and medical history review to determine if tooth extraction is necessary. If extraction is required, the dentist or oral surgeon will explain the procedure and provide instructions for pre-operative preparation, such as avoiding food and drink for a certain period of time prior to the appointment. The procedure will be performed under local anesthesia, conscious sedation, or general anesthesia, depending on the complexity of the extraction and the patient's level of anxiety. The dentist or oral surgeon will carefully remove the tooth and provide instructions for post-operative care, which may include taking pain medications, avoiding certain foods, and keeping the extraction site clean."
+    },
+    {
+        "title": "Contact Lens Fitting",
+        "img": "https://example.com/images/contact-lens-fitting.jpg",
+        "description": "Contact lens fitting is a process in which the eye doctor determines the best type of contact lenses for the patient based on their vision needs, eye shape, and lifestyle. The doctor will measure the curvature and size of the patient's eyes and test the vision with and without contact lenses. Once the doctor determines the best type of lenses, they will prescribe the lenses and provide instructions on how to insert, remove, and care for the lenses.",
+        "price": 150,
+        "category": "Eye Care",
+        "ratings": 4.5,
+        "process": "The patient will first undergo a comprehensive eye exam to determine if they are a good candidate for contact lenses. If contact lenses are recommended, the doctor will perform a contact lens fitting. The doctor will measure the curvature and size of the patient's eyes and test the vision with and without contact lenses. Once the doctor determines the best type of lenses, they will prescribe the lenses and provide instructions on how to insert, remove, and care for the lenses. The patient will also receive a trial pair of contact lenses to ensure proper fit and comfort."
+    },
+    {
+        "title": "Physical Therapy",
+        "img": "https://example.com/images/physical-therapy.jpg",
+        "description": "Physical therapy is a healthcare specialty that involves the evaluation, diagnosis, and treatment of conditions that affect the musculoskeletal system. Physical therapists use exercise, manual therapy, and other techniques to help patients reduce pain, improve mobility, and prevent or recover from injuries. Common conditions treated with physical therapy include back pain, neck pain, shoulder pain, knee pain, and post-surgical rehabilitation.",
+        "price": 200,
+        "category": "Physical Therapy",
+        "ratings": 4.7,
+        "process": "The patient will first undergo a comprehensive evaluation to assess their condition and create a treatment plan. The physical therapist will use various techniques, such as exercise, manual therapy, and modalities like heat or ice, to address the patient's needs. The therapist will also provide education on proper body mechanics, posture, and exercises the patient can perform at home to improve their condition. Treatment may be conducted in a one-on-one session with the therapist, or in a group setting with other patients."
+    }
+]
